@@ -1,0 +1,16 @@
+{
+  "name": "resin-aws-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flushResinEnv.js",
+  "scripts": {
+    "start": "bash run.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.3.10",
+    "resin-sdk": "^5.3.0"
+  }
+}
